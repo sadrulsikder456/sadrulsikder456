@@ -39,4 +39,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulsikder456&" alt="sadrulsikder456" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulsikder456&theme=dark&hide_border=true" alt="sadrulsikder456" /></p>
