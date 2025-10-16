@@ -24,14 +24,6 @@
   </table>
 
 
-<br>
-<br>
-
-
-
-<br>
-<br>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadrulsikder456&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
