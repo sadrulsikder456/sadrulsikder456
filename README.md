@@ -30,3 +30,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrulsikder456&theme=dark&hide_border=true" alt="sadrulsikder456" /></p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sadrulsikder456&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
