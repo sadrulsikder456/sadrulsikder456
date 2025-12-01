@@ -28,7 +28,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadrulsikder456&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sadrulsikder456&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
