@@ -31,3 +31,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sadrulsikder456&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sezanmahmud30&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
