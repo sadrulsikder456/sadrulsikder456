@@ -32,4 +32,3 @@
   <img src="https://streak-stats.demolab.com?user=sadrulsikder456&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadrulsikder456&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
